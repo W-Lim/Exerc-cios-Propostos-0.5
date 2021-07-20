@@ -1,0 +1,13 @@
+C:\Users\antonio.marques\Documents\C#\AtvMetAbstratos\AtvMetAbstratos\bin\Debug\netcoreapp3.1\AtvMetAbstratos.exe
+C:\Users\antonio.marques\Documents\C#\AtvMetAbstratos\AtvMetAbstratos\bin\Debug\netcoreapp3.1\AtvMetAbstratos.deps.json
+C:\Users\antonio.marques\Documents\C#\AtvMetAbstratos\AtvMetAbstratos\bin\Debug\netcoreapp3.1\AtvMetAbstratos.runtimeconfig.json
+C:\Users\antonio.marques\Documents\C#\AtvMetAbstratos\AtvMetAbstratos\bin\Debug\netcoreapp3.1\AtvMetAbstratos.runtimeconfig.dev.json
+C:\Users\antonio.marques\Documents\C#\AtvMetAbstratos\AtvMetAbstratos\bin\Debug\netcoreapp3.1\AtvMetAbstratos.dll
+C:\Users\antonio.marques\Documents\C#\AtvMetAbstratos\AtvMetAbstratos\bin\Debug\netcoreapp3.1\AtvMetAbstratos.pdb
+C:\Users\antonio.marques\Documents\C#\AtvMetAbstratos\AtvMetAbstratos\obj\Debug\netcoreapp3.1\AtvMetAbstratos.csproj.AssemblyReference.cache
+C:\Users\antonio.marques\Documents\C#\AtvMetAbstratos\AtvMetAbstratos\obj\Debug\netcoreapp3.1\AtvMetAbstratos.AssemblyInfoInputs.cache
+C:\Users\antonio.marques\Documents\C#\AtvMetAbstratos\AtvMetAbstratos\obj\Debug\netcoreapp3.1\AtvMetAbstratos.AssemblyInfo.cs
+C:\Users\antonio.marques\Documents\C#\AtvMetAbstratos\AtvMetAbstratos\obj\Debug\netcoreapp3.1\AtvMetAbstratos.csproj.CoreCompileInputs.cache
+C:\Users\antonio.marques\Documents\C#\AtvMetAbstratos\AtvMetAbstratos\obj\Debug\netcoreapp3.1\AtvMetAbstratos.dll
+C:\Users\antonio.marques\Documents\C#\AtvMetAbstratos\AtvMetAbstratos\obj\Debug\netcoreapp3.1\AtvMetAbstratos.pdb
+C:\Users\antonio.marques\Documents\C#\AtvMetAbstratos\AtvMetAbstratos\obj\Debug\netcoreapp3.1\AtvMetAbstratos.genruntimeconfig.cache
